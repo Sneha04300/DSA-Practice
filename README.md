@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sneha04300/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Sneha04300/DSA-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Sneha04300/DSA-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sneha04300/DSA-Practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sneha04300/DSA-Practice/tree/master/0326-power-of-three) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sneha04300/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sneha04300/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
