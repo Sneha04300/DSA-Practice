@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sneha04300/DSA-Practice/tree/master/0204-count-primes) |
+| [1480-running-sum-of-1d-array](https://github.com/Sneha04300/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Sneha04300/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sneha04300/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
