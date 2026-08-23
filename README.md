@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha04300/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sneha04300/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha04300/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Sneha04300/DSA-Practice/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Sneha04300/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha04300/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
