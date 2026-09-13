@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sneha04300/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
