@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Sneha04300/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Sneha04300/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sneha04300/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sneha04300/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sneha04300/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sneha04300/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
