@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha04300/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Sneha04300/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sneha04300/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha04300/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Sneha04300/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Sneha04300/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sneha04300/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Sneha04300/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sneha04300/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha04300/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
