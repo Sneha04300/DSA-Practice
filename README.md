@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Sneha04300/DSA-Practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha04300/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Sneha04300/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Sneha04300/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Sneha04300/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Array
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sneha04300/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sneha04300/DSA-Practice/tree/master/0242-valid-anagram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sneha04300/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
