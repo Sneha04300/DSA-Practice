@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sneha04300/DSA-Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sneha04300/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sneha04300/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Sneha04300/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sneha04300/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Sneha04300/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sneha04300/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sneha04300/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha04300/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Sneha04300/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sneha04300/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Sneha04300/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
